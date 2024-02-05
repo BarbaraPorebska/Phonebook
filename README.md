@@ -1,9 +1,7 @@
 <br>Phonebook</br>
 
 You just moved to a new town, and you'd like to get new friends as soon as possible.You've decided to create a phone book application, or at least some parts of it first.
-While you were experimenting with a friendly user interface, you attended a cooloff ice party
-where you collected a few phone numbers. Later on you realized thatmany numbers are
-incorrect (maybe the party was too good), so you decided towrite a program that selects the
+While you were experimenting with a friendly user interface, you attended a cooloff ice party where you collected a few phone numbers. Later on you realized thatmany numbers are incorrect (maybe the party was too good), so you decided to write a program that selects the
 good ones, and also checks for their area codes.
 
 Tasks
