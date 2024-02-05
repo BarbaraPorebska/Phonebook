@@ -7,7 +7,7 @@ incorrect (maybe the party was too good), so you decided towrite a program that 
 good ones, and also checks for their area codes.
 
 Tasks
-SHOW ALL CRITERIA
+
 Hello there
 Ask for the user's name in greetings.py, and print out a friendly, personalized message.
 1. The program asks for the user's name.
